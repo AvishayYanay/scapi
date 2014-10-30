@@ -85,7 +85,6 @@ On Eclipse:
    
 2. Configure build path: go to build path, Libraries tab, expand the ScapiWin jar that just added, Edit the 'Native Library Location' with the path of the suitable DLLs directory inside the 'assets' directory.
 
-   a. Add the lib folder where you have the Miracl, Crypto++, NTL and OpenSSL precompiled DLLs.
 3. Place the msvcp100.dll and msvcr100.dll in [C:]\Windows\System32 folder if they are missing there.
 
 .. _git: http://git-scm.org/
